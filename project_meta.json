@@ -1,10 +1,17 @@
 {
-  "seq": 34,
   "title": "Shadow AI: Assessing Employee AI Use and Building an SME AI Acceptable-Use Framework",
-  "slug": "shadow-ai-assessing-employee-ai-use-and-building-an-sme",
+  "old_slug": "shadow-ai-assessing-employee-ai-use-and-building-an-sme",
+  "slug": "shadow-ai-acceptable-use",
   "folder": "Shadow_Ai_Assessing_Employee_Ai_Use_And",
   "kind": "ai",
-  "body_words": 261,
+  "body_words": 339,
+  "source": "SCI700",
   "project_id": "Project 21",
-  "source": "SCI700"
+  "public": {
+    "public_ok": true,
+    "tier": "public-ok",
+    "reasons": [
+      "Strong portfolio narrative; synthetic baseline is fine for public"
+    ]
+  }
 }
